@@ -5,11 +5,17 @@ algorithms BFS, DFID, A*, IDA*, DFBNB
 
 
 Char    Route         Cost
+
 D       Dirt road     2
+
 R       Land road     3
+
 H       Sand road     5
+
 X       Cliff         -
+
 S       Start Point   0
+
 G       Goal          5
 
 
