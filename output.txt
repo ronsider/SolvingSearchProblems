@@ -1,0 +1,4 @@
+D-D-D-RD-RD-RD-RU
+Num: 415
+Cost: 20
+0.015 seconds
